@@ -1,4 +1,4 @@
-package testes;
+package Aula01testes;
 import java.util.Scanner;
 
 	public class exer01  {

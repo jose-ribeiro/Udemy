@@ -1,4 +1,4 @@
-package curso;
+package Aula01curso;
 import java.util.Locale;
 import java.util.Scanner;
 public class Exercicio02 {
